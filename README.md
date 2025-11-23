@@ -311,5 +311,3 @@ pip install -r requirements.txt
 MIT License
 
 ---
-
-Se quiser, eu gero automaticamente o `requirements.txt`, o `run.sh` e um `Dockerfile` simples para empacotar o bot. Quer que eu gere esses arquivos também?
